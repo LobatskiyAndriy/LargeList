@@ -1,0 +1,4 @@
+export const TYPE_REDUSER = {
+    SELECT_USER:'SELECT_USER',
+    ADD_USERS:'ADD_USERS',
+}
